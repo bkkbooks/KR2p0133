@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2p0133_001.yaml, hash: 'sha256:8824000bff20191d20463423dc5607c8c7839c976cd255ee94fad660a387e24e'}
+  - {seq: 1, filename: KR2p0133_001.yaml, hash: 'sha256:ce8208da8cc8e40df0d986b663079eed372a639e862a3912056f801fd9758f2e'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2p0133_001.markers.yaml, hash: 'sha256:97141cb6d9c0e6b848e247a775b6b81e06eb068b74131a3f90ca52a64be1c50d'}
+  - {seq: 1, role: markers, filename: assets/KR2p0133_001.markers.yaml, hash: 'sha256:17f42bb2de4c879e69330b93e1a22587df4c0476744eea098d22e4dfb7f2d151'}
 table_of_contents:
 - ref:
     seq: 1
@@ -30,7 +30,4 @@ table_of_contents:
   label: 散見簡牘合輯江蘇連雲港市花果山竹木間牘
   type: section
   level: 1
-hash: sha256:d035ce495d7e79d028ced25ee63facab4e574ceb50365ca239e42e1025265b00
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:9cdcab85b62521f4e744aa09a1a9e268b455f3fcb32f3ef001f8987f77c6beed
